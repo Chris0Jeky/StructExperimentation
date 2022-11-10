@@ -1,0 +1,3 @@
+/home/jekyt/week7pt2/cmake-build-debug/CMakeFiles/week7pt2.dir
+/home/jekyt/week7pt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jekyt/week7pt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
